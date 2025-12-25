@@ -1,0 +1,51 @@
+Gender,Married,Education,Self_Employed,ApplicantIncome,LoanAmount,Credit_History,Loan_Status
+Male,Yes,Graduate,No,5000,200,1,Y
+Female,No,Not Graduate,No,3000,100,0,N
+Male,Yes,Graduate,Yes,6000,250,1,Y
+Female,Yes,Graduate,No,4000,150,1,Y
+Male,No,Not Graduate,No,3500,120,0,N
+Female,No,Graduate,No,4500,200,1,Y
+Male,Yes,Graduate,No,7000,300,1,Y
+Female,Yes,Not Graduate,No,3200,100,0,N
+Male,No,Graduate,Yes,5000,180,1,Y
+Female,Yes,Graduate,No,4800,210,1,Y
+Male,Yes,Not Graduate,No,5200,220,1,Y
+Female,No,Graduate,Yes,4000,150,0,N
+Male,No,Graduate,No,6000,250,1,Y
+Female,Yes,Not Graduate,No,3000,100,0,N
+Male,Yes,Graduate,No,7000,300,1,Y
+Female,Yes,Graduate,No,4500,200,1,Y
+Male,No,Not Graduate,Yes,5000,180,1,Y
+Female,No,Graduate,No,4000,150,0,N
+Male,Yes,Graduate,No,6500,280,1,Y
+Female,Yes,Not Graduate,No,3200,120,0,N
+Male,No,Graduate,Yes,5500,230,1,Y
+Female,No,Graduate,No,3800,140,0,N
+Male,Yes,Graduate,No,6000,250,1,Y
+Female,Yes,Graduate,No,4200,180,1,Y
+Male,No,Not Graduate,No,5000,200,1,Y
+Female,No,Graduate,Yes,3900,160,0,N
+Male,Yes,Graduate,No,6800,290,1,Y
+Female,Yes,Not Graduate,No,3300,120,0,N
+Male,No,Graduate,No,5400,220,1,Y
+Female,No,Graduate,No,4000,150,0,N
+Male,Yes,Graduate,Yes,7000,300,1,Y
+Female,Yes,Graduate,No,4500,200,1,Y
+Male,No,Not Graduate,No,5200,210,1,Y
+Female,No,Graduate,No,3500,140,0,N
+Male,Yes,Graduate,No,6000,250,1,Y
+Female,Yes,Not Graduate,No,3800,150,0,N
+Male,No,Graduate,Yes,5000,200,1,Y
+Female,No,Graduate,No,4000,140,0,N
+Male,Yes,Graduate,No,6500,280,1,Y
+Female,Yes,Graduate,No,4200,180,1,Y
+Male,No,Not Graduate,No,5000,200,1,Y
+Female,No,Graduate,Yes,3900,160,0,N
+Male,Yes,Graduate,No,6800,290,1,Y
+Female,Yes,Not Graduate,No,3300,120,0,N
+Male,No,Graduate,No,5400,220,1,Y
+Female,No,Graduate,No,4000,150,0,N
+Male,Yes,Graduate,Yes,7000,300,1,Y
+Female,Yes,Graduate,No,4500,200,1,Y
+Male,No,Not Graduate,No,5200,210,1,Y
+Female,No,Graduate,No,3500,140,0,N
